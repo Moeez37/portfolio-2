@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-POS",
+      "name": "mern-pos-system",
+      "createdAt": "2023-04-13T04:18:19Z",
+      "url": "https://github.com/Moeez37",
+      "description": "A point-of-sale system built using MongoDB, Express, React, and Node.js.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-ECOM",
+      "name": "django-ecommerce",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/Moeez37",
+      "description": "An e-commerce platform built using Django and Django REST framework.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-BANKING",
+      "name": "java-banking-app",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/Moeez37",
+      "description": "A banking application developed with Java Spring Boot framework.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-REACTAPP",
+      "name": "react-task-manager",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/Moeez37",
+      "description": "A task management application built using ReactJS.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-CRM",
+      "name": "django-crm-system",
+      "createdAt": "2021-05-14T09:33:20Z",
+      "url": "https://github.com/Moeez37",
+      "description": "A customer relationship management system built with Django.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-MESSENGER",
+      "name": "mern-messenger-app",
+      "createdAt": "2022-09-25T14:50:20Z",
+      "url": "https://github.com/Moeez37",
+      "description": "A real-time messenger application using MongoDB, Express, React, and Node.js.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-BOOKSTORE",
+      "name": "java-online-bookstore",
+      "createdAt": "2020-12-30T11:22:10Z",
+      "url": "https://github.com/Moeez37",
+      "description": "An online bookstore application developed with Java Spring Boot.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
