@@ -14,6 +14,9 @@ class Certifications extends Component {
             <h1 className="certs-header" style={{ color: theme.text }}>
               Certifications
             </h1>
+            <h1 className="certs-header" style={{ color: "red",fontSize:"30px" }}>
+              Section is under Development sorry for inconvenience.
+            </h1>
           </Fade>
         </div>
         <div className="certs-body-div">
