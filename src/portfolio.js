@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/drive/u/0/folders/1l_B_05il43J5Vl65qmDrQbzaYfxvQnT5",
+    "https://drive.google.com/file/d/1aVyuBhw5cUjc_eH_cwnNbHWivRZ82Lft/view?usp=sharing",
   portfolio_repository: "https://github.com/Moeez37/Portfolio",
   githubProfile: "https://github.com/Moeez37",
 };
@@ -522,7 +522,7 @@ const experience = {
           company: "Arrivy Inc.",
           company_url: "https://www.linkedin.com/company/arrivy/about",
           logo_path: "Arrivy_new_logo.svg",
-          duration: "April 2023 - june 2023",
+          duration: "April 2023 - present",
           location: "Lahore, Pakistan",
           description:
             "Developed dynamic interfaces with ReactJS and React-Bootstrap, enhancing user experience. Built efficient APIs using Python Django and integrated APIs like Calendly and Nimble for seamless communication. Created solutions to process data effectively without server management.",
@@ -591,11 +591,10 @@ const projectsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
-const publicationsHeader = {
-};
+const publicationsHeader = {};
 
 const publications = {
-  data:[],
+  data: [],
 };
 
 // Contact Page
